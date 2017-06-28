@@ -29,7 +29,7 @@ turtle.right(90)
 Turn left 45 degrees:
 
 ```python
-turtle.left(90)
+turtle.left(45)
 ``` 
 
 Example:
