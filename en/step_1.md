@@ -33,4 +33,4 @@ turtle.left(90)
 ``` 
 
 Example:
-<iframe src="https://trinket.io/embed/python/8853df197c" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/8853df197c?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
